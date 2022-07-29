@@ -1,0 +1,6 @@
+#+TITLE: Data and Scripts Repository
+This repository contains all MRI data, cognitive data, and covariates, as well as the scripts necessary to replicate the results presented in the manuscript:
+
+*Relations of Gray Matter Volume to Dimensional Measures of Cognition and Affect in Mood Disorders*
+
+Joseph Kim, PhD; Katie Bessette, MSc; Melinda Westlund-Schreinder, PhD; Stephanie Pocius, BSc; Alina Dillahunt, BSc; Summer Frandsen, BSc; Rebecca Easter, BSc; Krsity Skerrett, BSc; Jonathan Stange, PhD; Robert Welsh, PhD; Scott Langenecker, PhD; Vincent Koppelmans, PhD
