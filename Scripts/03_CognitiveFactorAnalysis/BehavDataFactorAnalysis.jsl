@@ -1,0 +1,28 @@
+Factor Analysis(
+Y(
+:CPT_t1_omissions_T_INV, 
+:CPT_t1_commissions_T_INV, 
+:CPT_t1_hit_RT_T_INV, 
+:CPT_t1_hit_RT_blockchange_T_INV, 
+:PGNGS_t1_2T_GNG_RT_INV, 
+:PGNGS_t1_2T_GNG_Comms_INV, 
+:PGNGS_t1_2T_GNG_Omms_INV, 
+:PGNGS_t1_3T_GNG_RT_INV, 
+:PGNGS_t1_3T_GNG_Comms_INV, 
+:PGNGS_t1_3T_GNG_Omms_INV, 
+:MID_t1_AccWT_r34, 
+:MID_t1_AccLT_r34, 
+:MID_t1_AccNT_r34, 
+:FFNP_t1_FearDprime, 
+:FFNP_t1_AngerDprime, 
+:FFNP_t1_HappyDPrime, 
+:FFNP_t1_SadDPrime, 
+:FFNP_t1_NeutDPrime, 
+:EWT_t1_dp_Rcg_Neg, 
+:EWT_t1_dp_Rcg_Neut, 
+:EWT_t1_dp_Rcg_Pos
+
+), 
+Variance Estimation("Pairwise"), 
+Variance Scaling("Correlations"), 
+Fit("ML", "SMC", 7, "Quartimin"))

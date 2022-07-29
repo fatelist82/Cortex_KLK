@@ -1,0 +1,29 @@
+Factor Analysis(
+	Y(
+		:L015,
+		:L020,
+		:L028,
+		:L036,
+		:L092,
+		:L099,
+		:L121,
+		:L123,
+		:L124,
+		:L125,
+		:L128,
+		:L138,
+		:L150,
+		:L153,
+		:L155,
+		:L157,
+		:L161,
+		:L168,
+		:L258,
+		:L259,
+		:L261,
+		:L263
+	),
+	Variance Estimation( "Row-wise" ),
+	Variance Scaling( "Correlations" ),
+	Fit( "ML", "SMC", 5, "Quartimin" )
+)
