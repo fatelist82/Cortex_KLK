@@ -6,3 +6,9 @@ This repository contains all MRI data, cognitive data, and covariates, as well a
 Joseph Kim, PhD; Katie Bessette, MSc; Melinda Westlund-Schreinder, PhD; Stephanie Pocius, BSc; Alina Dillahunt, BSc; Summer Frandsen, BSc; Rebecca Easter, BSc; Krsity Skerrett, BSc; Jonathan Stange, PhD; Robert Welsh, PhD; Scott Langenecker, PhD; Vincent Koppelmans, PhD
 
 [[https://pubmed.ncbi.nlm.nih.gov/36191367/][https://pubmed.ncbi.nlm.nih.gov/36191367/]]
+
+* Data Processing Pipeline
+In addition to the flowchart in the paper, the following figure displays the pipeline that was used to process the MRI data:
+#+attr_org: :width 900px
+#+attr_html: :width 900px
+[[file:./FlowChart.jpg]]
